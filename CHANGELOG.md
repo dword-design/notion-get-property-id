@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dword-design/notion-get-property-id/compare/v1.0.0...v2.0.0) (2023-01-08)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#4](https://github.com/dword-design/notion-get-property-id/issues/4)) ([7d0c626](https://github.com/dword-design/notion-get-property-id/commit/7d0c6266a658e891c01b718781e9fa20eb2f1e07))
+
+
+### BREAKING CHANGES
+
+* Drop Node 12 support, switch to ESM
+
 # 1.0.0 (2022-09-05)
 
 
