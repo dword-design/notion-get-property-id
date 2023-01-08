@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/notion-get-property-id/compare/v2.0.0...v2.0.1) (2023-01-08)
+
+
+### Bug Fixes
+
+* foo ([a91a328](https://github.com/dword-design/notion-get-property-id/commit/a91a328ad3bc173f8df8e7b1165b8a2b40a7b3f1))
+
 # [2.0.0](https://github.com/dword-design/notion-get-property-id/compare/v1.0.0...v2.0.0) (2023-01-08)
 
 
