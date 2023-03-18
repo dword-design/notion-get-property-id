@@ -1,3 +1,11 @@
+## [2.0.3](https://github.com/dword-design/notion-get-property-id/compare/v2.0.2...v2.0.3) (2023-03-18)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/dotenv-json-extended to v2.0.11 ([8bd6e98](https://github.com/dword-design/notion-get-property-id/commit/8bd6e98e53f9839de4f9c6d034783c2889cfd2af))
+* update dependency @dword-design/dotenv-json-extended to v2.0.12 ([c1bbc2e](https://github.com/dword-design/notion-get-property-id/commit/c1bbc2e2f4020e23e6b0ca5aaba9c23fc951b2a5))
+
 ## [2.0.2](https://github.com/dword-design/notion-get-property-id/compare/v2.0.1...v2.0.2) (2023-03-16)
 
 
