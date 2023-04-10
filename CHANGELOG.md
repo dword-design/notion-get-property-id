@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/notion-get-property-id/compare/v2.0.7...v2.0.8) (2023-04-10)
+
+
+### Bug Fixes
+
+* update dependency make-cli to v3.0.4 ([0ebb460](https://github.com/dword-design/notion-get-property-id/commit/0ebb4604ed44a992d6a73b110bc96d435a1ef287))
+
 ## [2.0.7](https://github.com/dword-design/notion-get-property-id/compare/v2.0.6...v2.0.7) (2023-04-10)
 
 
