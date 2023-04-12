@@ -1,3 +1,10 @@
+## [2.0.12](https://github.com/dword-design/notion-get-property-id/compare/v2.0.11...v2.0.12) (2023-04-12)
+
+
+### Bug Fixes
+
+* update dependency @notionhq/client to v2.2.4 ([2cd40de](https://github.com/dword-design/notion-get-property-id/commit/2cd40de27817647619da546b718f53ba0b426d96))
+
 ## [2.0.11](https://github.com/dword-design/notion-get-property-id/compare/v2.0.10...v2.0.11) (2023-04-12)
 
 
