@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@dword-design/dotenv-json-extended": "^2.0.8",
-    "@notionhq/client": "^2.1.1",
+    "@notionhq/client": "^3.0.0",
     "make-cli": "^3.0.0"
   },
   "devDependencies": {
