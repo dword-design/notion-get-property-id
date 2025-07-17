@@ -23,7 +23,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "@dword-design/dotenv-json-extended": "^2.0.8",
+    "@dword-design/dotenv-json-extended": "^4.0.0",
     "@notionhq/client": "^2.1.1",
     "make-cli": "^3.0.0"
   },
